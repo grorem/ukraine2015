@@ -368,7 +368,7 @@ h6{
   width:100%;
   height: 100vh;
 
-  background: url('../img/uaflag.jpg');
+  background: url('../img/flag3.jpg');
 
   background-size: cover;
     background-repeat: no-repeat;
@@ -723,11 +723,11 @@ width:100%;
 .main{
 
 
-	max-width: 98%;
+	max-width: 99%;
 	min-width:40%;
 	margin: auto;
 	height:100%;
-	padding:25px;
+	padding:15px;
 }
 
 
